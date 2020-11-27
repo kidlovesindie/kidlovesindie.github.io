@@ -2,7 +2,7 @@
 
 
 ### Stuff to do
-- Add content to about, philosophy, CV, etc.
+- Add content to philosophy, CV, etc.
 - Verify that links work
 - Determine what kind of graphics/images you want to add (likely a pic of yourself?)
 - Determine if SEO is a good thing to incorporate
