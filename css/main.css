@@ -4,6 +4,11 @@ body {
     background-color: #000000;
     color: #FFFFFF;
 }
+
+nav img {
+    vertical-align: middle
+}    
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
